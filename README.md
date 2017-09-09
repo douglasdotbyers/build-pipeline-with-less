@@ -6,7 +6,7 @@ An asset build pipeline, which:
  - concatenates and minifies CSS;
  - concatenates and minifies JS;
  - serves the app locally;
- - live reloads changes to HTML, LESS, JS;
+ - live-reloads changes to HTML, LESS, JS;
  - facilitates synchronised browser testing.
 
 ## Setup
