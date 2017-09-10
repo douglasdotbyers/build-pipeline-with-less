@@ -49,4 +49,4 @@ Run the asset build pipeline:
 gulp
 ```
 
-Browse to https://localhost:3000/home.html.
+Browse to https://localhost:3000/.
